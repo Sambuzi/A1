@@ -8,7 +8,7 @@ Il lavoro si svolge **in gruppo** e consiste principalmente nella conduzione di 
 ---
 
 ### 🧩 Preparazione ed Esecuzione
-1. **Dominio di interesse:** scegliere un ambito specifico (es. trasporti → spostamenti quotidiani in treno).  
+1. **Dominio di interesse:** scegliere un ambito specifico.  
    Il dominio non è un’idea di app, ma un contesto da esplorare.
 2. **Interviste:**  
    - **Partecipanti:** minimo 4 persone (più è meglio) con ruoli diversi:  
@@ -31,8 +31,7 @@ Il lavoro si svolge **in gruppo** e consiste principalmente nella conduzione di 
 3. **Brainstorming di soluzioni:** generare almeno 5 possibili soluzioni per ciascun bisogno.  
 4. **Selezione della soluzione principale:** usare *post-it voting* o *four-category method*.  
 5. **Definire nome progetto e value proposition:**  
-   - Nome breve (1–2 parole).  
-   - Frase di valore chiara, specifica e motivante (es. “Always the ride you want”).
+   - Nome breve (1–2 parole).
 
 ---
 
@@ -47,20 +46,6 @@ Creare una cartella `A1` nel repository GitHub contenente:
   6. Nome progetto e *value proposition*  
 - **Materiali grezzi** (foto, note, registrazioni, moduli di consenso, ecc.).
 
----
-
-### 🧾 Valutazione (100%)
-- **Definizione del dominio:** 5%  
-- **Partecipanti:** 10%  
-- **Metodologia ed esecuzione:** 40%  
-- **Qualità della sintesi:** 45%  
-
----
-
-### 📚 Letture consigliate
-- *5 Steps to Create Good User Interview Questions* – Medium  
-- *Asking the right questions during user research, interviews and testing* – Medium  
-- *What to do in needfinding* – PDF  
 
 ---
 
